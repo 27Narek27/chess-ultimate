@@ -20,7 +20,7 @@
 Нужен Python 3.9 или новее.
 
 ```bash
-git clone https://github.com/<ВАШ_НИК>/chess-ultimate.git
+git clone https://github.com/27Narek27/chess-ultimate.git
 cd chess-ultimate
 pip install -r requirements.txt
 python chess_ultimate.py
